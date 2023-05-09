@@ -13,6 +13,7 @@ Habilidad para trabajar en equipo y colaborar con otros desarrolladores, diseña
 Conocimiento de frameworks y bibliotecas de JavaScript, como React, Redux
 
 Comparto link a mis proyectos mas destacados
+https://meditech-app.com/
 https://sensational-meerkat-d04948.netlify.app/
 
 Contacto
